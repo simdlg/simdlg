@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm simdlg</h1>
 <h3 align="center">A fullstack developer from Italy</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=simdlg&label=Profile%20views&color=0e75b6&style=flat" alt="simdlg" /> </p>
-
-
 - 👀 I’m interested in **anything regarding Computer Science**
 - 🌱 I’m currently learning **Web Development**
 - 💞️ I’m looking to collaborate on **FLOSS projects**
