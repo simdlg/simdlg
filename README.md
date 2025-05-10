@@ -26,10 +26,10 @@ I’m passionate about **algorithms, artificial intelligence and open-source sof
 ## 🧪 Personal Projects
 
 ### Web
-- **Portfolio** – Static website built with HTML/CSS/JS, includes projects and resume
+- [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Static personal website that includes my projects and my resume
 
 ### Android
-- **Pillol App** – Android app to manage daily medications, with scheduling and notification system (Java + Room)
+- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
 
 ## 🛠️ Tech Stack
 

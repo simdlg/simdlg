@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Simone
 
-[Clicca qui](README.md) per la versione in inglese
+> [Clicca qui](README.md) per la versione in inglese
 
 Sono un **Full Stack Developer** con sede a Roma, laureato in Informatica, con esperienza professionale nello sviluppo di applicazioni utilizzando lo stack tecnologico Microsoft.
 
@@ -26,10 +26,10 @@ Sono appassionato di **algoritmi, intelligenza artificiale e software open-sourc
 ## 🧪 Progetti personali
 
 ### Web
-- **Portfolio** – Sito personale statico che raccoglie i miei progetti e il mio profilo professionale
+- [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Sito personale statico che raccoglie i miei progetti e il mio profilo professionale
 
 ### Android
-- **Pillol App** – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)
+- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)
 
 ## 🛠️ Tech Stack
 
