@@ -45,3 +45,9 @@ Sono appassionato di **algoritmi, intelligenza artificiale e software open-sourc
 - [Email](mailto:simdlg@outlook.it)
 - [LinkedIn](https://www.linkedin.com/in/simdlg/)  
 - [Telegram](https://t.me/simonedelgrosso)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simdlg&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+![GitHub TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=simdlg&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=simdlg&theme=transparent&hide_border=true)
