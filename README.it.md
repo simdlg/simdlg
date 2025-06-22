@@ -29,7 +29,8 @@ Sono appassionato di **algoritmi, intelligenza artificiale e software open-sourc
 - [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Sito personale statico che raccoglie i miei progetti e il mio profilo professionale
 
 ### Android
-- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)
+- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)  
+- [**Altira**](https://github.com/simdlg/altira-info) - App Android per la navigazione tramite bussola e altimetro (Java)
 
 ## 🛠️ Tech Stack
 

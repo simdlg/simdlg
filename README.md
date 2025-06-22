@@ -29,7 +29,8 @@ I’m passionate about **algorithms, artificial intelligence and open-source sof
 - [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Static personal website that includes my projects and my resume
 
 ### Android
-- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
+- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)  
+- [**Altira**](https://github.com/simdlg/altira-info) - Android app for navigation with compass and altimeter (Java)
 
 ## 🛠️ Tech Stack
 
