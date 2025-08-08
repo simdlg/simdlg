@@ -4,7 +4,7 @@
 
 Sono un **Full Stack Developer** con sede a Roma, laureato in Informatica, con esperienza professionale nello sviluppo di applicazioni utilizzando lo stack tecnologico Microsoft.
 
-Sono appassionato di **algoritmi, intelligenza artificiale e software open-source**. Mi piace creare soluzioni pulite, manutenibili e apprendere continuamente nuove tecnologie.
+Sono appassionato di **intelligenza artificiale e software open-source**. Mi piace creare soluzioni pulite, manutenibili e apprendere continuamente nuove tecnologie.
 
 > _“Victory over others is strength. Victory over yourself is true power.”_
 

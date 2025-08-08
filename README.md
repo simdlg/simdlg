@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Developer** based in Rome (Italy), with a degree in Computer Science and professional experience in designing and building applications using the Microsoft technology stack.
 
-I’m passionate about **algorithms, artificial intelligence and open-source software**. I enjoy building clean, maintainable solutions and continuously learning new technologies.
+I’m passionate about **artificial intelligence and open-source software**. I enjoy building clean, maintainable solutions and continuously learning new technologies.
 
 > _“Victory over others is strength. Victory over yourself is true power.”_
 
