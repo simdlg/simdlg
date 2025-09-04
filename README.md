@@ -6,8 +6,6 @@ I'm a **Full Stack Developer** based in Rome (Italy), with a degree in Computer 
 
 I’m passionate about **artificial intelligence and open-source software**. I enjoy building clean, maintainable solutions and continuously learning new technologies.
 
-> _“Victory over others is strength. Victory over yourself is true power.”_
-
 ## 💼 Professional Summary
 
 - Full Stack Developer at **Reply Cluster Rome IT**

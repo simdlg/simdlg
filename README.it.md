@@ -6,8 +6,6 @@ Sono un **Full Stack Developer** con sede a Roma, laureato in Informatica, con e
 
 Sono appassionato di **intelligenza artificiale e software open-source**. Mi piace creare soluzioni pulite, manutenibili e apprendere continuamente nuove tecnologie.
 
-> _“Victory over others is strength. Victory over yourself is true power.”_
-
 ## 💼 Profilo professionale
 
 - Full Stack Developer presso **Reply Cluster Rome IT**
