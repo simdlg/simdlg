@@ -24,11 +24,11 @@ Sono appassionato di **intelligenza artificiale** e **software open-source**. Mi
 ## 🧪 Progetti personali
 
 ### Web
-- [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Sito personale statico che raccoglie i miei progetti e il mio profilo professionale
+- [**Portfolio**](https://github.com/simonedelgrosso/simonedelgrosso.github.io) – Sito personale statico che raccoglie i miei progetti e il mio profilo professionale
 
 ### Android
-- [**Altira**](https://github.com/simdlg/altira-info) - App Android per la navigazione tramite bussola e altimetro (Java)  
-- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)  
+- [**Altira**](https://github.com/simonedelgrosso/altira-info) - App Android per la navigazione tramite bussola e altimetro (Java)  
+- [**Pillol App**](https://github.com/simonedelgrosso/pillol-app-info) – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)  
 
 ## 🛠️ Tech Stack
 
@@ -47,5 +47,5 @@ Sono appassionato di **intelligenza artificiale** e **software open-source**. Mi
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=simdlg&theme=transparent&hide_border=true)  
-![GitHub TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=simdlg&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=simonedelgrosso&theme=transparent&hide_border=true)  
+![GitHub TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonedelgrosso&theme=transparent&show_icons=true&hide_border=true&layout=compact)

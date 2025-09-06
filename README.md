@@ -24,11 +24,11 @@ I’m passionate about **artificial intelligence** and **open-source software**.
 ## 🧪 Personal Projects
 
 ### Web
-- [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Static personal website that includes my projects and my resume
+- [**Portfolio**](https://github.com/simonedelgrosso/simonedelgrosso.github.io) – Static personal website that includes my projects and my resume
 
 ### Android  
-- [**Altira**](https://github.com/simdlg/altira-info) - Android app for navigation with compass and altimeter (Java)  
-- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
+- [**Altira**](https://github.com/simonedelgrosso/altira-info) - Android app for navigation with compass and altimeter (Java)  
+- [**Pillol App**](https://github.com/simonedelgrosso/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
 
 ## 🛠️ Tech Stack
 
