@@ -2,13 +2,13 @@
 
 > [Click here](README.it.md) for the italian version
 
-I'm a **Full Stack Developer** based in Rome (Italy), with a degree in Computer Science and professional experience in designing and building applications using the Microsoft technology stack.
+I'm a **full-stack developer** based in Rome (Italy), with a degree in Computer Science and professional experience in designing and building applications using the Microsoft technology stack.
 
-I’m passionate about **artificial intelligence and open-source software**. I enjoy building clean, maintainable solutions and continuously learning new technologies.
+I’m passionate about **artificial intelligence** and **open-source software**. I enjoy building clean, maintainable solutions and continuously learning new technologies.
 
 ## 💼 Professional Summary
 
-- Full Stack Developer at **Reply Cluster Rome IT**
+- Full-stack Developer at **Reply Cluster Rome IT**
 - Strong focus on **.NET technologies**, Azure services, and modern web development
 - Experience with **database design** and RESTful APIs
 - Experience with **UI frameworks** like Angular & React
@@ -26,26 +26,26 @@ I’m passionate about **artificial intelligence and open-source software**. I e
 ### Web
 - [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Static personal website that includes my projects and my resume
 
-### Android
-- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)  
-- [**Altira**](https://github.com/simdlg/altira-info) - Android app for navigation with compass and altimeter (Java)
+### Android  
+- [**Altira**](https://github.com/simdlg/altira-info) - Android app for navigation with compass and altimeter (Java)  
+- [**Pillol App**](https://github.com/simdlg/pillol-app-info) – Android app to manage daily medications, with scheduling and notification system (Java + Room)
 
 ## 🛠️ Tech Stack
 
-- **Languages**: C#, Java, JavaScript, SQL  
-- **Frameworks**: .NET, ASP.NET MVC, jQuery, Angular, React  
 - **Cloud**: Microsoft Azure  
+- **Frameworks**: .NET, ASP.NET MVC, jQuery, Angular, React  
+- **Languages**: C#, Java, JavaScript, SQL  
 - **Mobile**: Android (Java)  
 - **Tools**: Git, Visual Studio Code, Visual Studio, Android Studio  
 
 ## 📫 Get in Touch
 
-- [Portfolio](https://simdlg.github.io)  
-- [Email](mailto:simdlg@outlook.it)
-- [LinkedIn](https://www.linkedin.com/simdlg/)  
+- [Email](mailto:simonedelgrosso@outlook.it)
+- [LinkedIn](https://www.linkedin.com/in/simdlg/)
+- [Portfolio](https://simonedelgrosso.github.io)
 - [Telegram](https://t.me/simonedelgrosso)
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=simdlg&theme=transparent&hide_border=true)  
-![GitHub TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=simdlg&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=simonedelgrosso&theme=transparent&hide_border=true)  
+![GitHub TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonedelgrosso&theme=transparent&show_icons=true&hide_border=true&layout=compact)

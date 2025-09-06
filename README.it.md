@@ -2,13 +2,13 @@
 
 > [Clicca qui](README.md) per la versione in inglese
 
-Sono un **Full Stack Developer** con sede a Roma, laureato in Informatica, con esperienza professionale nello sviluppo di applicazioni utilizzando lo stack tecnologico Microsoft.
+Sono un **full-stack developer** con sede a Roma, laureato in Informatica, con esperienza professionale nello sviluppo di applicazioni utilizzando lo stack tecnologico Microsoft.
 
-Sono appassionato di **intelligenza artificiale e software open-source**. Mi piace creare soluzioni pulite, manutenibili e apprendere continuamente nuove tecnologie.
+Sono appassionato di **intelligenza artificiale** e **software open-source**. Mi piace creare soluzioni pulite, manutenibili e apprendere continuamente nuove tecnologie.
 
 ## 💼 Profilo professionale
 
-- Full Stack Developer presso **Reply Cluster Rome IT**
+- Full-stack Developer presso **Reply Cluster Rome IT**
 - Specializzato in **tecnologie .NET**, servizi Azure e sviluppo web moderno
 - Esperienza nella **progettazione di database** e realizzazione di API RESTful
 - Conoscenza di **framework UI** come Angular e React
@@ -27,22 +27,22 @@ Sono appassionato di **intelligenza artificiale e software open-source**. Mi pia
 - [**Portfolio**](https://github.com/simdlg/simdlg.github.io) – Sito personale statico che raccoglie i miei progetti e il mio profilo professionale
 
 ### Android
+- [**Altira**](https://github.com/simdlg/altira-info) - App Android per la navigazione tramite bussola e altimetro (Java)  
 - [**Pillol App**](https://github.com/simdlg/pillol-app-info) – App Android per la gestione quotidiana dei farmaci, con sistema di pianificazione e notifiche (Java + Room)  
-- [**Altira**](https://github.com/simdlg/altira-info) - App Android per la navigazione tramite bussola e altimetro (Java)
 
 ## 🛠️ Tech Stack
 
-- **Linguaggi**: C#, Java, JavaScript, SQL  
-- **Framework**: .NET, ASP.NET MVC, jQuery, Angular, React  
 - **Cloud**: Microsoft Azure  
+- **Framework**: .NET, ASP.NET MVC, jQuery, Angular, React  
+- **Linguaggi**: C#, Java, JavaScript, SQL  
 - **Mobile**: Android (Java)  
 - **Strumenti**: Git, Visual Studio Code, Visual Studio, Android Studio  
 
 ## 📫 Contatti
 
-- [Portfolio](https://simdlg.github.io)  
-- [Email](mailto:simdlg@outlook.it)
+- [Email](mailto:simonedelgrosso@outlook.it)  
 - [LinkedIn](https://www.linkedin.com/in/simdlg/)  
+- [Portfolio](https://simonedelgrosso.github.io)
 - [Telegram](https://t.me/simonedelgrosso)
 
 ## 📊 GitHub Stats
